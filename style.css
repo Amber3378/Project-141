@@ -1,0 +1,41 @@
+body
+{
+     text-align: center;
+     background-size: cover;
+}
+
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    margin-top: 0px;
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
+
+.copy_right_footer
+{
+    background-color: aqua;
+    bottom: 0px;
+    position: fixed ;
+    width: 100%;
+    text-shadow: 5px 5px 5px grey;
+    text-align: center;
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 20px;
+    border: #f5f5f5;
+    color: aqua;
+}
